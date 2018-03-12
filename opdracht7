@@ -1,0 +1,9 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Oppervlakte = " + (6.5 * 6.5 * 3.14159));
+        System.out.println("Omtrek = " + (2 * 6.5 * 3.14159));
+    }
+}
